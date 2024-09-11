@@ -4,7 +4,7 @@ const { Pool } = pg;
 const dbConfig = {
   host: "localhost",
   user: "postgres",
-  password: "adminadmin",
+  password: "postgres",
   database: "timetracker",
   port: 5432,
 };
